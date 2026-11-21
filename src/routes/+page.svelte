@@ -5,7 +5,7 @@
 
 <main>
   <p class="kicker">A PLACE TO BEGIN</p>
-  <h1>A simple thought, given room to breathe.</h1>
+  <h1>Jorrel and Keith's Recipies</h1>
   <p class="lead">This is a sample introduction. Replace this sentence with a short description of who you are, what you make, or what you care about.</p>
   <hr class="rule">
   <div class="copy">

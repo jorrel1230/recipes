@@ -9,6 +9,7 @@
     <span class="brand">A SMALL, PERSONAL SITE</span>
     <nav aria-label="Main navigation">
       <a class="nav" href="/" aria-current={page.url.pathname === '/' ? 'page' : undefined}>Home</a>
+      <a class="nav" href="/recipe/" aria-current={page.url.pathname.replace(/\/$/, '') === '/recipe' ? 'page' : undefined}>Sample recipe</a>
       <a class="nav" href="/about/" aria-current={page.url.pathname.replace(/\/$/, '') === '/about' ? 'page' : undefined}>About</a>
     </nav>
   </header>
