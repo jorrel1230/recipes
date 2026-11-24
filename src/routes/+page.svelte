@@ -6,7 +6,7 @@
 <main>
   <p class="kicker">A PLACE TO BEGIN</p>
   <h1>Jorrel and Keith's Recipies</h1>
-  <p class="lead">This is a sample introduction. Replace this sentence with a short description of who you are, what you make, or what you care about.</p>
+  <p class="lead">If it's easy enough for us, you have try some of these out!</p>
   <hr class="rule">
   <div class="copy">
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at nibh sed justo interdum blandit. Integer vitae lectus sed erat tempor posuere. Sed euismod, metus quis commodo tincidunt, neque sapien consequat erat, ut tincidunt nunc lectus nec justo.</p>
